@@ -1,3 +1,2 @@
 My First Jenkins Git vivek
-Hello this Job For Build triger prdical and Polllscm feachers 
-need to check jenkin plugin download file or folder 
+Hello this Job For Build triger GITScm polling for aviod resource utilization
